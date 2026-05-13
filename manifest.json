@@ -2,9 +2,9 @@
   "name": "Benz Enterprises Auctions & Equipment",
   "short_name": "Benz Enterprises",
   "description": "Live auctions at your fingertips",
-  "start_url": "https://benzauctions.com/",
+  "start_url": "https://benzenterprisesauctions.hibid.com/",
   "display": "standalone",
-  "background_color": "#1a1a1a",
+  "background_color": "#666666",
   "theme_color": "#c8102e",
   "orientation": "portrait",
   "icons": [
