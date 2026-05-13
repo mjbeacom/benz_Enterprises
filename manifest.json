@@ -1,0 +1,22 @@
+{
+  "name": "Benz Enterprises Auctions & Equipment",
+  "short_name": "Benz Enterprises",
+  "description": "Live auctions at your fingertips",
+  "start_url": "https://benzauctions.com/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#c8102e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/5ntDdcE.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.imgur.com/5ntDdcE.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
